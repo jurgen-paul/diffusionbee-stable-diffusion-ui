@@ -91,11 +91,6 @@ const PostProcessImage = {
             let h = this.sd_options['input_img__AUX__height' ] 
             let w = this.sd_options['input_img__AUX__width' ]
 
-            if(h > 2048 || w > 2048){
-                this.app.show_toast('Input image is too large')
-                return
-            }
-
             this.$refs.gallery.add_group({
                 group_id : 1 ,
                 num_imgs: 1 , 
