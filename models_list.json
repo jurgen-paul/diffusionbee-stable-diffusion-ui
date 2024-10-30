@@ -206,7 +206,7 @@
             "sd_type": "flux_dev"
         }
     } , 
-    [
+
     {
         "id": "animagineXLV31_v31",
         "description": "animagineXLV31_v31 SDXL Model",
@@ -394,6 +394,5 @@
         "img_url": "",
         "source_page_url": "https://civitai.com/models/317902/t-ponynai3"
     }
-]
 
 ]
