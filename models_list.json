@@ -172,6 +172,39 @@
                 "sd_type": "sdxl_base"
         },
         "img_url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/503d8616-8dd3-42a9-aaed-e30adb99a9a6/original=true/00015-2133006391.jpeg"
-    }      
+    } , 
+    {
+        "id": "FLUX.1-schnell",
+        "description": "FLUX.1 Schnell Model",
+        "filename": "flux_schnell_q5p_NNC_all.sqlite",
+        "md5": "638c5129ee802743d3bd1dd515a5bc70",
+        "is_stock_model": false,
+        "url": "https://huggingface.co/diffusionbee/flux/resolve/main/flux_schnell_q5p_NNC_all.sqlite",
+        "source_page_url" : "https://huggingface.co/black-forest-labs/FLUX.1-schnell",
+        "title": "FLUX.1-schnell",
+        "min_version": 40,
+        "model_meta_data": {
+            "type": "flux_nnc",
+            "float_type": "nnc_float_q5p",
+            "sd_type": "flux_schnell"
+        },
+        "img_url": "https://cdn-lfs-us-1.huggingface.co/repos/61/ba/61ba075249a6755dc3e602ba82772c47ebb1fdb830c67e7f00e4d408868518f1/5bff488da88933a529825e4fd72e10c3824e22508dc1d6f36b49850fa517ac44?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27schnell_grid.jpeg%3B+filename%3D%22schnell_grid.jpeg%22%3B&response-content-type=image%2Fjpeg&Expires=1723783000&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyMzc4MzAwMH19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy11cy0xLmh1Z2dpbmdmYWNlLmNvL3JlcG9zLzYxL2JhLzYxYmEwNzUyNDlhNjc1NWRjM2U2MDJiYTgyNzcyYzQ3ZWJiMWZkYjgzMGM2N2U3ZjAwZTRkNDA4ODY4NTE4ZjEvNWJmZjQ4OGRhODg5MzNhNTI5ODI1ZTRmZDcyZTEwYzM4MjRlMjI1MDhkYzFkNmYzNmI0OTg1MGZhNTE3YWM0ND9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPSomcmVzcG9uc2UtY29udGVudC10eXBlPSoifV19&Signature=S0cy1Yt96lnSPasOzfPhDFWYsr7nBcB9wL9JC%7E0UvRRnt2Rq6LMO%7ENzDSglvwkIL8ryQl5b35VXbXsH9pdrVtBBa0voq8yVBeM5gkuFr6jw34CfHbh4SdXLWHQHPLTsk5cBevHGhuNG%7Ek9sW1KwfJto-MsByMpuaySNsqAr-IrM4z4o-x7OPA3z8E72PwDNU2Mp6wfFGYzvO3Ehul8UadJM1uSHZp%7EfI4G%7EHSfIjYFvbtwK4HmG3XuOolazUOZ6ApD4312yM9M2Ql-NyMulVeAF7bL8Sl3bBhg7uTCimfTYG1jkYjsXT5PUG14%7EsuHkzIgn4VJUjoZcWEKtyZzMXWw__&Key-Pair-Id=K24J24Z295AEI9"
+    } , 
+    {
+        "id": "FLUX.1-dev",
+        "description": "FLUX.1 Dev Model",
+        "filename": "flux_dev_q5p_NNC_all.sqlite",
+        "md5": "14a0f0beec5973c4db7ffe9a692ef7d3",
+        "is_stock_model": false,
+        "url": "https://huggingface.co/diffusionbee/flux/resolve/main/flux_dev_q5p_NNC_all.sqlite",
+        "source_page_url" : "https://huggingface.co/black-forest-labs/FLUX.1-dev",
+        "title": "FLUX.1-dev",
+        "min_version": 40,
+        "model_meta_data": {
+            "type": "flux_nnc",
+            "float_type": "nnc_float_q5p",
+            "sd_type": "flux_dev"
+        }
+    }     
 
 ]
