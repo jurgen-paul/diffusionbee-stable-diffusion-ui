@@ -206,13 +206,14 @@
             "sd_type": "flux_dev"
         }
     } , 
+    [
     {
         "id": "animagineXLV31_v31",
         "description": "animagineXLV31_v31 SDXL Model",
         "filename": "animagineXLV31_v31.safetensors.8bit.tdict",
         "md5": "bd85744112515be302c52c24c1df5785",
         "is_stock_model": false,
-        "url": "https://huggingface.co/divamgupta/stable_diffusion_mps/resolve/main/animagineXLV31_v31.safetensors.8bit.tdict",
+        "url": "https://huggingface.co/diffusionbee/sdxl_community_models/resolve/main/animagineXLV31_v31.safetensors.8bit.tdict",
         "title": "Animagine XL V3.1",
         "min_version": 36,
         "model_meta_data": {
@@ -229,7 +230,7 @@
         "filename": "AnythingXL_xl.safetensors.8bit.tdict",
         "md5": "b58eadbcd3fa4eda4d0dc05ca3dc1e91",
         "is_stock_model": false,
-        "url": "https://huggingface.co/divamgupta/stable_diffusion_mps/resolve/main/AnythingXL_xl.safetensors.8bit.tdict",
+        "url": "https://huggingface.co/diffusionbee/sdxl_community_models/resolve/main/AnythingXL_xl.safetensors.8bit.tdict",
         "title": "Anything XL",
         "min_version": 36,
         "model_meta_data": {
@@ -246,7 +247,7 @@
         "filename": "dreamshaperXL_v21TurboDPMSDE.safetensors.8bit.tdict",
         "md5": "9173ddb4360cfb4296617fbeba2ce59d",
         "is_stock_model": false,
-        "url": "https://huggingface.co/divamgupta/stable_diffusion_mps/resolve/main/dreamshaperXL_v21TurboDPMSDE.safetensors.8bit.tdict",
+        "url": "https://huggingface.co/diffusionbee/sdxl_community_models/resolve/main/dreamshaperXL_v21TurboDPMSDE.safetensors.8bit.tdict",
         "title": "DreamShaper XL Turbo",
         "min_version": 36,
         "model_meta_data": {
@@ -263,7 +264,7 @@
         "filename": "dynavisionXLAllInOneStylized_releaseV0610Bakedvae.safetensors.8bit.tdict",
         "md5": "7016b263222e0f37a8ced7efcab5d18f",
         "is_stock_model": false,
-        "url": "https://huggingface.co/divamgupta/stable_diffusion_mps/resolve/main/dynavisionXLAllInOneStylized_releaseV0610Bakedvae.safetensors.8bit.tdict",
+        "url": "https://huggingface.co/diffusionbee/sdxl_community_models/resolve/main/dynavisionXLAllInOneStylized_releaseV0610Bakedvae.safetensors.8bit.tdict",
         "title": "dynavisionXL All In One",
         "min_version": 36,
         "model_meta_data": {
@@ -280,7 +281,7 @@
         "filename": "epicrealismXL_v8Kiss.safetensors.8bit.tdict",
         "md5": "74ddcef0d28e8d1790e0d8623df310b1",
         "is_stock_model": false,
-        "url": "https://huggingface.co/divamgupta/stable_diffusion_mps/resolve/main/epicrealismXL_v8Kiss.safetensors.8bit.tdict",
+        "url": "https://huggingface.co/diffusionbee/sdxl_community_models/resolve/main/epicrealismXL_v8Kiss.safetensors.8bit.tdict",
         "title": "epicrealismXL",
         "min_version": 36,
         "model_meta_data": {
@@ -297,7 +298,7 @@
         "filename": "Juggernaut_X_RunDiffusion_Hyper.safetensors.8bit.tdict",
         "md5": "e4a39e65af6f21947c92e27fd2f71f83",
         "is_stock_model": false,
-        "url": "https://huggingface.co/divamgupta/stable_diffusion_mps/resolve/main/Juggernaut_X_RunDiffusion_Hyper.safetensors.8bit.tdict",
+        "url": "https://huggingface.co/diffusionbee/sdxl_community_models/resolve/main/Juggernaut_X_RunDiffusion_Hyper.safetensors.8bit.tdict",
         "title": "Juggernaut XL 10 Hyper",
         "min_version": 36,
         "model_meta_data": {
@@ -314,7 +315,7 @@
         "filename": "Juggernaut_X_RunDiffusion.safetensors.8bit.tdict",
         "md5": "1a03be1dd26af889d979c0e31fa7a134",
         "is_stock_model": false,
-        "url": "https://huggingface.co/divamgupta/stable_diffusion_mps/resolve/main/Juggernaut_X_RunDiffusion.safetensors.8bit.tdict",
+        "url": "https://huggingface.co/diffusionbee/sdxl_community_models/resolve/main/Juggernaut_X_RunDiffusion.safetensors.8bit.tdict",
         "title": "Juggernaut XL 10",
         "min_version": 36,
         "model_meta_data": {
@@ -331,7 +332,7 @@
         "filename": "ponyRealism_v21MainVAE.safetensors.8bit.tdict",
         "md5": "ff649accafcb4bbdf0565c897b3a5e07",
         "is_stock_model": false,
-        "url": "https://huggingface.co/divamgupta/stable_diffusion_mps/resolve/main/ponyRealism_v21MainVAE.safetensors.8bit.tdict",
+        "url": "https://huggingface.co/diffusionbee/sdxl_community_models/resolve/main/ponyRealism_v21MainVAE.safetensors.8bit.tdict",
         "title": "Pony Realism",
         "min_version": 36,
         "model_meta_data": {
@@ -348,7 +349,7 @@
         "filename": "protovisionXLHighFidelity3D_releaseV660Bakedvae.safetensors.8bit.tdict",
         "md5": "5e612ece92b6ef93631dcc9d0753c313",
         "is_stock_model": false,
-        "url": "https://huggingface.co/divamgupta/stable_diffusion_mps/resolve/main/protovisionXLHighFidelity3D_releaseV660Bakedvae.safetensors.8bit.tdict",
+        "url": "https://huggingface.co/diffusionbee/sdxl_community_models/resolve/main/protovisionXLHighFidelity3D_releaseV660Bakedvae.safetensors.8bit.tdict",
         "title": "protovision XL",
         "min_version": 36,
         "model_meta_data": {
@@ -365,7 +366,7 @@
         "filename": "realDream_sdxlPony7.safetensors.8bit.tdict",
         "md5": "76edca9ce4a844cfe563738d7bbf4c44",
         "is_stock_model": false,
-        "url": "https://huggingface.co/divamgupta/stable_diffusion_mps/resolve/main/realDream_sdxlPony7.safetensors.8bit.tdict",
+        "url": "https://huggingface.co/diffusionbee/sdxl_community_models/resolve/main/realDream_sdxlPony7.safetensors.8bit.tdict",
         "title": "realDream SDXL Pony 7",
         "min_version": 36,
         "model_meta_data": {
@@ -382,7 +383,7 @@
         "filename": "tPonynai3_v55.safetensors.8bit.tdict",
         "md5": "a6ca2b7cbb8de259eddb0f44a497c10b",
         "is_stock_model": false,
-        "url": "https://huggingface.co/divamgupta/stable_diffusion_mps/resolve/main/tPonynai3_v55.safetensors.8bit.tdict",
+        "url": "https://huggingface.co/diffusionbee/sdxl_community_models/resolve/main/tPonynai3_v55.safetensors.8bit.tdict",
         "title": "t Ponynai 3_v55",
         "min_version": 36,
         "model_meta_data": {
@@ -393,5 +394,6 @@
         "img_url": "",
         "source_page_url": "https://civitai.com/models/317902/t-ponynai3"
     }
+]
 
 ]
