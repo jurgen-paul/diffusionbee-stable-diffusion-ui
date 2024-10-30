@@ -205,6 +205,193 @@
             "float_type": "nnc_float_q5p",
             "sd_type": "flux_dev"
         }
-    }     
+    } , 
+    {
+        "id": "animagineXLV31_v31",
+        "description": "animagineXLV31_v31 SDXL Model",
+        "filename": "animagineXLV31_v31.safetensors.8bit.tdict",
+        "md5": "bd85744112515be302c52c24c1df5785",
+        "is_stock_model": false,
+        "url": "https://huggingface.co/divamgupta/stable_diffusion_mps/resolve/main/animagineXLV31_v31.safetensors.8bit.tdict",
+        "title": "Animagine XL V3.1",
+        "min_version": 36,
+        "model_meta_data": {
+            "type": "sd_model",
+            "float_type": "float8_1",
+            "sd_type": "sdxl_base"
+        },
+        "img_url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b50708a9-a0a2-4a62-a688-cbd15abb65e4/width=450/image%20(24).jpeg",
+        "source_page_url": "https://civitai.com/models/260267/animagine-xl-v31"
+    },
+    {
+        "id": "AnythingXL_xl",
+        "description": "AnythingXL_xl SDXL Model",
+        "filename": "AnythingXL_xl.safetensors.8bit.tdict",
+        "md5": "b58eadbcd3fa4eda4d0dc05ca3dc1e91",
+        "is_stock_model": false,
+        "url": "https://huggingface.co/divamgupta/stable_diffusion_mps/resolve/main/AnythingXL_xl.safetensors.8bit.tdict",
+        "title": "Anything XL",
+        "min_version": 36,
+        "model_meta_data": {
+            "type": "sd_model",
+            "float_type": "float8_1",
+            "sd_type": "sdxl_base"
+        },
+        "img_url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4bdea703-131d-403c-89c7-d823ad8683a9/width=450/6846b1b9-8dca-7eee-9ab1-4617ae9fe8111.jpeg",
+        "source_page_url": "https://civitai.com/models/9409/or-anything-xl"
+    },
+    {
+        "id": "dreamshaperXL_v21TurboDPMSDE",
+        "description": "dreamshaperXL_v21TurboDPMSDE SDXL Model",
+        "filename": "dreamshaperXL_v21TurboDPMSDE.safetensors.8bit.tdict",
+        "md5": "9173ddb4360cfb4296617fbeba2ce59d",
+        "is_stock_model": false,
+        "url": "https://huggingface.co/divamgupta/stable_diffusion_mps/resolve/main/dreamshaperXL_v21TurboDPMSDE.safetensors.8bit.tdict",
+        "title": "DreamShaper XL Turbo",
+        "min_version": 36,
+        "model_meta_data": {
+            "type": "sd_model",
+            "float_type": "float8_1",
+            "sd_type": "sdxl_base"
+        },
+        "img_url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fb00718b-227c-462c-ad03-1371f63e3213/width=450/31072150-554464390-In%20Casey%20Baugh's%20evocative%20style,%20art%20of%20a%20beautiful%20young%20girl%20cyborg%20with%20long%20brown%20hair,%20futuristic,%20scifi,%20intricate,%20elega.jpeg",
+        "source_page_url": "https://civitai.com/models/112902/dreamshaper-xl"
+    },
+    {
+        "id": "dynavisionXLAllInOneStylized_releaseV0610Bakedvae",
+        "description": "dynavisionXLAllInOneStylized_releaseV0610Bakedvae SDXL Model",
+        "filename": "dynavisionXLAllInOneStylized_releaseV0610Bakedvae.safetensors.8bit.tdict",
+        "md5": "7016b263222e0f37a8ced7efcab5d18f",
+        "is_stock_model": false,
+        "url": "https://huggingface.co/divamgupta/stable_diffusion_mps/resolve/main/dynavisionXLAllInOneStylized_releaseV0610Bakedvae.safetensors.8bit.tdict",
+        "title": "dynavisionXL All In One",
+        "min_version": 36,
+        "model_meta_data": {
+            "type": "sd_model",
+            "float_type": "float8_1",
+            "sd_type": "sdxl_base"
+        },
+        "img_url": "",
+        "source_page_url": ""
+    },
+    {
+        "id": "epicrealismXL_v8Kiss",
+        "description": "epicrealismXL_v8Kiss SDXL Model",
+        "filename": "epicrealismXL_v8Kiss.safetensors.8bit.tdict",
+        "md5": "74ddcef0d28e8d1790e0d8623df310b1",
+        "is_stock_model": false,
+        "url": "https://huggingface.co/divamgupta/stable_diffusion_mps/resolve/main/epicrealismXL_v8Kiss.safetensors.8bit.tdict",
+        "title": "epicrealismXL",
+        "min_version": 36,
+        "model_meta_data": {
+            "type": "sd_model",
+            "float_type": "float8_1",
+            "sd_type": "sdxl_base"
+        },
+        "img_url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3306a924-73bf-472a-9de8-2ee6338658c2/width=450/00005-1016589095.jpeg",
+        "source_page_url": "https://civitai.com/models/277058/epicrealism-xl"
+    },
+    {
+        "id": "Juggernaut_X_RunDiffusion_Hyper",
+        "description": "Juggernaut_X_RunDiffusion_Hyper SDXL Model",
+        "filename": "Juggernaut_X_RunDiffusion_Hyper.safetensors.8bit.tdict",
+        "md5": "e4a39e65af6f21947c92e27fd2f71f83",
+        "is_stock_model": false,
+        "url": "https://huggingface.co/divamgupta/stable_diffusion_mps/resolve/main/Juggernaut_X_RunDiffusion_Hyper.safetensors.8bit.tdict",
+        "title": "Juggernaut XL 10 Hyper",
+        "min_version": 36,
+        "model_meta_data": {
+            "type": "sd_model",
+            "float_type": "float8_1",
+            "sd_type": "sdxl_base"
+        },
+        "img_url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9a7bfc52-8c05-46ac-86f9-5c2ef55d1c1b/width=450/00015-photograph,%20landscape%20of%20a%20Mythical%20Grotto%20from%20inside%20of%20a%20Harare,%20at%20Twilight,%20Depressing,%20Cloudpunk,%20Cold%20Lighting,%20dynamic,.jpeg",
+        "source_page_url": "https://civitai.com/models/133005/juggernaut-xl"
+    },
+    {
+        "id": "Juggernaut_X_RunDiffusion",
+        "description": "Juggernaut_X_RunDiffusion SDXL Model",
+        "filename": "Juggernaut_X_RunDiffusion.safetensors.8bit.tdict",
+        "md5": "1a03be1dd26af889d979c0e31fa7a134",
+        "is_stock_model": false,
+        "url": "https://huggingface.co/divamgupta/stable_diffusion_mps/resolve/main/Juggernaut_X_RunDiffusion.safetensors.8bit.tdict",
+        "title": "Juggernaut XL 10",
+        "min_version": 36,
+        "model_meta_data": {
+            "type": "sd_model",
+            "float_type": "float8_1",
+            "sd_type": "sdxl_base"
+        },
+        "img_url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9a7bfc52-8c05-46ac-86f9-5c2ef55d1c1b/width=450/00015-photograph,%20landscape%20of%20a%20Mythical%20Grotto%20from%20inside%20of%20a%20Harare,%20at%20Twilight,%20Depressing,%20Cloudpunk,%20Cold%20Lighting,%20dynamic,.jpeg",
+        "source_page_url": "https://civitai.com/models/133005/juggernaut-xl"
+    },
+    {
+        "id": "ponyRealism_v21MainVAE",
+        "description": "ponyRealism_v21MainVAE SDXL Model",
+        "filename": "ponyRealism_v21MainVAE.safetensors.8bit.tdict",
+        "md5": "ff649accafcb4bbdf0565c897b3a5e07",
+        "is_stock_model": false,
+        "url": "https://huggingface.co/divamgupta/stable_diffusion_mps/resolve/main/ponyRealism_v21MainVAE.safetensors.8bit.tdict",
+        "title": "Pony Realism",
+        "min_version": 36,
+        "model_meta_data": {
+            "type": "sd_model",
+            "float_type": "float8_1",
+            "sd_type": "sdxl_base"
+        },
+        "img_url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/46a15e01-41be-4dbf-b63e-bacb189cac2b/width=450/02185.jpeg",
+        "source_page_url": "https://civitai.com/models/372465/pony-realism"
+    },
+    {
+        "id": "protovisionXLHighFidelity3D_releaseV660Bakedvae",
+        "description": "protovisionXLHighFidelity3D_releaseV660Bakedvae SDXL Model",
+        "filename": "protovisionXLHighFidelity3D_releaseV660Bakedvae.safetensors.8bit.tdict",
+        "md5": "5e612ece92b6ef93631dcc9d0753c313",
+        "is_stock_model": false,
+        "url": "https://huggingface.co/divamgupta/stable_diffusion_mps/resolve/main/protovisionXLHighFidelity3D_releaseV660Bakedvae.safetensors.8bit.tdict",
+        "title": "protovision XL",
+        "min_version": 36,
+        "model_meta_data": {
+            "type": "sd_model",
+            "float_type": "float8_1",
+            "sd_type": "sdxl_base"
+        },
+        "img_url": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/68933ae2-ebe1-465a-8195-6a10a956ed59/width=450/00441-2023-12-16-3112686001.jpeg",
+        "source_page_url": "https://civitai.com/models/125703/protovision-xl-high-fidelity-3d-photorealism-anime-hyperrealism-no-refiner-needed"
+    },
+    {
+        "id": "realDream_sdxlPony7",
+        "description": "realDream_sdxlPony7 SDXL Model",
+        "filename": "realDream_sdxlPony7.safetensors.8bit.tdict",
+        "md5": "76edca9ce4a844cfe563738d7bbf4c44",
+        "is_stock_model": false,
+        "url": "https://huggingface.co/divamgupta/stable_diffusion_mps/resolve/main/realDream_sdxlPony7.safetensors.8bit.tdict",
+        "title": "realDream SDXL Pony 7",
+        "min_version": 36,
+        "model_meta_data": {
+            "type": "sd_model",
+            "float_type": "float8_1",
+            "sd_type": "sdxl_base"
+        },
+        "img_url": "",
+        "source_page_url": "https://civitai.com/models/153568/real-dream"
+    },
+    {
+        "id": "tPonynai3_v55",
+        "description": "tPonynai3_v55 SDXL Model",
+        "filename": "tPonynai3_v55.safetensors.8bit.tdict",
+        "md5": "a6ca2b7cbb8de259eddb0f44a497c10b",
+        "is_stock_model": false,
+        "url": "https://huggingface.co/divamgupta/stable_diffusion_mps/resolve/main/tPonynai3_v55.safetensors.8bit.tdict",
+        "title": "t Ponynai 3_v55",
+        "min_version": 36,
+        "model_meta_data": {
+            "type": "sd_model",
+            "float_type": "float8_1",
+            "sd_type": "sdxl_base"
+        },
+        "img_url": "",
+        "source_page_url": "https://civitai.com/models/317902/t-ponynai3"
+    }
 
 ]
