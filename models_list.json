@@ -208,7 +208,7 @@
     } , 
 
     {
-        "id": "animagineXLV31_v31",
+        "id": "animagineXLV31",
         "description": "animagineXLV31_v31 SDXL Model",
         "filename": "animagineXLV31_v31.safetensors.8bit.tdict",
         "md5": "bd85744112515be302c52c24c1df5785",
@@ -242,7 +242,7 @@
         "source_page_url": "https://civitai.com/models/9409/or-anything-xl"
     },
     {
-        "id": "dreamshaperXL_v21TurboDPMSDE",
+        "id": "dreamshaperXL_v21Turbo",
         "description": "dreamshaperXL_v21TurboDPMSDE SDXL Model",
         "filename": "dreamshaperXL_v21TurboDPMSDE.safetensors.8bit.tdict",
         "md5": "9173ddb4360cfb4296617fbeba2ce59d",
@@ -259,7 +259,7 @@
         "source_page_url": "https://civitai.com/models/112902/dreamshaper-xl"
     },
     {
-        "id": "dynavisionXLAllInOneStylized_releaseV0610Bakedvae",
+        "id": "dynavisionXLAV0610",
         "description": "dynavisionXLAllInOneStylized_releaseV0610Bakedvae SDXL Model",
         "filename": "dynavisionXLAllInOneStylized_releaseV0610Bakedvae.safetensors.8bit.tdict",
         "md5": "7016b263222e0f37a8ced7efcab5d18f",
@@ -276,7 +276,7 @@
         "source_page_url": ""
     },
     {
-        "id": "epicrealismXL_v8Kiss",
+        "id": "epicrealismXL_v8",
         "description": "epicrealismXL_v8Kiss SDXL Model",
         "filename": "epicrealismXL_v8Kiss.safetensors.8bit.tdict",
         "md5": "74ddcef0d28e8d1790e0d8623df310b1",
@@ -293,7 +293,7 @@
         "source_page_url": "https://civitai.com/models/277058/epicrealism-xl"
     },
     {
-        "id": "Juggernaut_X_RunDiffusion_Hyper",
+        "id": "Juggernaut_X_Hyper",
         "description": "Juggernaut_X_RunDiffusion_Hyper SDXL Model",
         "filename": "Juggernaut_X_RunDiffusion_Hyper.safetensors.8bit.tdict",
         "md5": "e4a39e65af6f21947c92e27fd2f71f83",
@@ -310,7 +310,7 @@
         "source_page_url": "https://civitai.com/models/133005/juggernaut-xl"
     },
     {
-        "id": "Juggernaut_X_RunDiffusion",
+        "id": "Juggernaut_X",
         "description": "Juggernaut_X_RunDiffusion SDXL Model",
         "filename": "Juggernaut_X_RunDiffusion.safetensors.8bit.tdict",
         "md5": "1a03be1dd26af889d979c0e31fa7a134",
@@ -327,7 +327,7 @@
         "source_page_url": "https://civitai.com/models/133005/juggernaut-xl"
     },
     {
-        "id": "ponyRealism_v21MainVAE",
+        "id": "ponyRealism_v21",
         "description": "ponyRealism_v21MainVAE SDXL Model",
         "filename": "ponyRealism_v21MainVAE.safetensors.8bit.tdict",
         "md5": "ff649accafcb4bbdf0565c897b3a5e07",
@@ -344,7 +344,7 @@
         "source_page_url": "https://civitai.com/models/372465/pony-realism"
     },
     {
-        "id": "protovisionXLHighFidelity3D_releaseV660Bakedvae",
+        "id": "protovisionXLV660",
         "description": "protovisionXLHighFidelity3D_releaseV660Bakedvae SDXL Model",
         "filename": "protovisionXLHighFidelity3D_releaseV660Bakedvae.safetensors.8bit.tdict",
         "md5": "5e612ece92b6ef93631dcc9d0753c313",
